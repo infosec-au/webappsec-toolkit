@@ -21,3 +21,7 @@ When initially setting up your box to start pwning the webs, I'd recommend getti
 - [Acunetix Web Vuln Scanner (Free and Paid Versions)](http://www.acunetix.com/)
 - [Netsparker (Free and Paid Versions)](http://netsparker.com)
 - [IBM Appscan (Evaluation and Paid Versions)](http://www-03.ibm.com/software/products/en/appscan)
+
+#####Books and Reference Guides
+- [Web App Hackers Handbook](http://www.amazon.com/The-Web-Application-Hackers-Handbook/dp/1118026470)
+- [The Tangled Web](http://www.amazon.com/The-Tangled-Web-Securing-Applications/dp/1593273886)
