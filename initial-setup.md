@@ -10,6 +10,7 @@ When initially setting up your box to start pwning the webs, I'd recommend getti
 
 #####Attack Frameworks
 - [Metasploit](http://www.metasploit.com/)
+`Note: It may be difficult to setup Metasploit on OSX. I recommend using the following guide: http://www.darkoperator.com/installing-metasploit-framewor/`
 - [Samurai Web Testing Framework (VMWare)](http://sourceforge.net/projects/samurai/files/)
 - [Kali Linux Testing Framework](http://www.kali.org/downloads/)
 - [OWASP Mantra (Browser w/ Web Sec Addons)](http://www.getmantra.com/owasp-mantra.html)
