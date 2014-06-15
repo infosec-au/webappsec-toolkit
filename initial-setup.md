@@ -3,7 +3,7 @@
 
 When initially setting up your box to start pwning the webs, I'd recommend getting the following tools installed on your machine.
 
-#####Reverse Proxy's/Web App Testign Toolkits
+#####Reverse Proxy's/Web App Testing Toolkits
 - [Burp Suite (Free or Pro @ $299 / user)](http://portswigger.net/burp/download.HTML)
 - [ZAP Proxy (Opensource)](https://code.google.com/p/zaproxy/wiki/Downloads?tm=2)
 - [Fiddler (Free)](http://www.telerik.com/fiddler)
